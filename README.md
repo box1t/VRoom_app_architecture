@@ -16,4 +16,4 @@
 
 ## 4. Диаграмма классов
 
-![image](https://user-images.githubusercontent.com/113284506/234593696-7b8af788-0afc-4ace-bde1-9ab01c76d071.png)
+![image](https://user-images.githubusercontent.com/113284506/234597938-7e18c4cb-d057-4c4e-ae0e-646ec85fa0c1.png)
